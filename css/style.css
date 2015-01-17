@@ -95,14 +95,22 @@
   line-height: 14px;  
 }
 
-.comment-section {
+.cross-sell {
   font-size: 12px;
-  margin-top: 30px;
-  line-height: 20px;
+  margin-top: 20px;
 }
 
-.comment-section div {
-  margin-top: 6px;
+.read-more-section {
+  margin-top: 40px;
+}
+
+.small-link {
+  font-size: 10px;
+  color: gray;
+}
+
+.small-link a {
+  color: gray !important;
 }
 
 #mc_embed_signup { clear:left; width:50%; }
@@ -127,4 +135,3 @@
 #mc_embed_signup input.button {
   width: 20% !important;
 }
-
